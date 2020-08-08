@@ -54,6 +54,7 @@
 /* チャットスペース */
 .chat {
   width: calc(100% - 300px);
+  height:100vh;
   background-color: #ffffff;
 }
 
@@ -120,6 +121,7 @@
 
 .form {
   height: 90px;
+  width:100%;
   background-color: #DDDDDD;
   padding: 20px 40px;
   display: flex;
